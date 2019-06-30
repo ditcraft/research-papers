@@ -1,2 +1,2 @@
-# research_papers
-Research papers describing and analyzing the @ditcraft technology
+# Research
+Papers describing and analyzing the @ditcraft technology.
